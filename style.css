@@ -780,9 +780,9 @@ blockquote {
   .next {
     right: 0.45rem;
   }
+}
 .art-card img.contain-image {
   object-fit: contain !important;
   padding: 14px;
   background: #ffffff;
-}
 }
