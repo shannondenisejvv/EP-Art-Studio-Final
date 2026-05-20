@@ -780,4 +780,7 @@ blockquote {
   .next {
     right: 0.45rem;
   }
+  .contain-image {
+  object-fit: contain !important;
+  background: #f5f5f5;
 }
