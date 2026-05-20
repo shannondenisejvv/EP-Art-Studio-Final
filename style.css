@@ -312,6 +312,11 @@ p {
   font-size: 0.95rem;
   max-width: 40ch;
   text-align: right;
+  .gallery-note {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-style: italic;
 }
 
 .gallery-grid {
